@@ -1,4 +1,4 @@
-package com.example.common.security;
+package com.youngadessi.app.common.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
